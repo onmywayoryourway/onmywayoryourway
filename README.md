@@ -1,6 +1,7 @@
-![12bocchi-the-rock-bocchi](https://github.com/user-attachments/assets/1f1dc4f4-1990-4424-bcb9-41a42b86556c)<p align="center">
-  <a href="https://www.edisonlee55.com"><img src="kita-ikuyo-rap.webp" alt=""></a>
+<p align="center">
+  <a href="https://github.com/onmywayoryourway"><img src="bocchi-the-rock-bocchi.webp" alt="Banner"></a>
 </p>
+
 
 <h1 align="center">Hi, I'm onmywayoryourway</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile</h1>
