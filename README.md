@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/onmywayoryourway"><img src="bocchi-the-rock-bocchi.webp" alt="Banner"></a>
+  <a href=""><img src="bocchi-the-rock-bocchi.webp" alt="Banner"></a>
 </p>
 
 
